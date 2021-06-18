@@ -1,5 +1,4 @@
 This is for fetch practice
 
-This is another line for fetch practice
 
-This is 1 more line for fetch practice
+This is another line for fetch practice
