@@ -3,3 +3,5 @@ This is for merge practice
 I edited this
 
 Another one
+
+New line here
