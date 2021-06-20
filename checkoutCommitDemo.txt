@@ -1,6 +1,10 @@
 First line of text
 
+<<<<<<< HEAD
 This is another line of text
 
 
 3rd line of text
+=======
+This text came from the previous commit
+>>>>>>> new-branch
