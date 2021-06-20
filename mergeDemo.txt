@@ -1,3 +1,5 @@
 This is for merge practice
 
-I edited this before switching to new branch!
+I edited this
+
+Another one
